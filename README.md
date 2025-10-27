@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marshall Hoepfner</h1>
 <h3 align="center">A QA Professional with 14 years of experience.</h3>
 
-- 🔭 I’m currently working on a [Playwright UI portfolio piece](https://github.com/mhoepf84/playwright-framework-ui) as well as planning an [Pytest-based API testing](https://github.com/mhoepf84/playwright-api) item.
+- 🔭 I’m currently working on a [Playwright UI portfolio piece](https://github.com/mhoepf84/playwright-framework-ui) as well as planning an [Pytest-based API testing](https://github.com/mhoepf84/api-testing) item.
 
 - 🌱 I’m currently learning **Playwright's AI tool (Model Context Protocol).**
 
