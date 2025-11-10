@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marshall Hoepfner</h1>
 <h3 align="center">A QA Professional with 14 years of experience.</h3>
 
-- 🔭 I’m currently working on a few API pieces: [automated API testing piece using Postman](https://github.com/mhoepf84/api-testing) and a smaller project demonstrating OAuth 2.0 interaction, also within Postman. My [Playwright UI portfolio piece](https://github.com/mhoepf84/playwright-framework-ui) will be chipped away at over time, since at this stage, I just have to add specific test-cases.
+- 🔭 I’m currently working on a few API pieces: an [automated API testing](https://github.com/mhoepf84/api-testing) piece using Postman and a smaller project demonstrating [OAuth 2.0 interaction](https://github.com/mhoepf84/OAuth-2.0-Access-Demo), also within Postman. My [Playwright UI portfolio piece](https://github.com/mhoepf84/playwright-framework-ui) will be chipped away at over time, since at this stage, I just have to add specific test-cases, and the video demonstration is done.
 
-- 🌱 I’m currently learning **Playwright's AI tool (Model Context Protocol).** Unsure what sort of mileage I'll get out of it, but I'm curious.
+- 🌱 I’m currently learning **Playwright's AI tool (Model Context Protocol).** Unsure what sort of mileage I'll get out of it (sounds like it's still rough around the edges), but I'm curious.
 
 - 💬 Ask me about **QA practices, geology, or geophysics!**
 
